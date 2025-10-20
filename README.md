@@ -5,6 +5,8 @@
 [![Multi-Distro](https://img.shields.io/badge/Linux-Multi_Distro-orange.svg)](https://en.wikipedia.org/wiki/Linux)
 [![Systemd Service](https://img.shields.io/badge/Systemd-Service-red.svg)](https://systemd.io/)
 
+<img width="325" height="78" alt="image" src="https://github.com/user-attachments/assets/b8886661-711e-4f03-a572-f88b25ad428f" />
+
 **One-command automated installation script for ComfyUI** with isolated Python environment and automatic service setup. Supports multiple Linux distributions.
 
 ## 🚀 Features
